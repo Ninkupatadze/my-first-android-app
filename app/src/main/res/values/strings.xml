@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">shualeduri</string>
+    <string name="hello_your_name">Hello, your name</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="login">Login</string>
+</resources>
